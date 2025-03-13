@@ -17,7 +17,7 @@ title: Matias Q. Möhring Portfolio
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Data Analyst with a bakground in Operations Management and Cultural Studies.
-#twitter_username: mqmohring
+linkedin_username: mqmohring
 github_username: mqmohring
 minimal_mistakes_skin: dark
 search: true
@@ -63,9 +63,9 @@ author:
    # - label: "Website"
     #  icon: "fas fa-fw fa-link"
      # url: "https://"
-  #  - label: "Twitter"
-   #   icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/matias-m%C3%B6hring-343839279/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mqmohring"
