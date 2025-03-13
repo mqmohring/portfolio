@@ -64,7 +64,7 @@ author:
     #  icon: "fas fa-fw fa-link"
      # url: "https://"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/matias-m%C3%B6hring-343839279/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
