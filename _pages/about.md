@@ -1,8 +1,16 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /presentation/
+title: "Presentation"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+🔹 Data Analyst | Operations Manager
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Experienced **Data Analyst** with a background in Operations Management, Customer Success, and Financial Planning. Skilled in SQL, Excel, and data visualization to drive data-informed decision-making. Proven success in analyzing key performance metrics, optimizing financial processes, and implementing forecasting models to enhance business transparency.
+
+Adept at building dashboards, conducting **exploratory data analysis** (EDA), and translating complex data into actionable insights for strategic decision-making. Strong ability to work cross-functionally, leveraging data to streamline operations, improve customer satisfaction, and support key stakeholders.
+
+Fluent in Spanish, English, and German, with a global perspective and excellent communication skills. A proactive, detail-oriented problem solver passionate about leveraging data analytics to drive business impact.
+
+Passionate about music and cultural fields, I bring a unique perspective shaped by my academic background in cultural studies. This foundation enhances my ability to approach data with creativity, empathy, and a deep understanding of human behavior, enabling me to uncover insights that resonate across diverse audiences.
+
+📩 Open to roles in **Data Analytics**, Business Intelligence, and Operations Strategy. Let’s connect!
