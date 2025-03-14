@@ -6,4 +6,4 @@ layout: single
 author_profile: true
 ---
  This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics. 
- Let me know if any questions about the [**projects**](https://mqmohring.github.io/Portfolio/projects/) come up!
+ Let me know if any questions about the [**projects**](https://mqmohring.github.io/portfolio/projects/) come up!
