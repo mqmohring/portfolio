@@ -5,7 +5,7 @@ title: "Presentation"
 
 🔹 Data Analyst | Operations Manager
 
-<small> Experienced **Data Analyst** with a background in Operations Management, Customer Success, and Financial Planning. Skilled in SQL, Excel, and data visualization to drive data-informed decision-making. Proven success in analyzing key performance metrics, optimizing financial processes, and implementing forecasting models to enhance business transparency.
+<small> Experienced **Data Analyst** with a background in Operations Analysis and Management, Customer Success, and Financial Planning. Skilled in SQL, Excel, and data visualization to drive data-informed decision-making. Proven success in analyzing key performance metrics, optimizing financial processes, and implementing forecasting models to enhance business transparency.
 
 <small>Adept at building dashboards, conducting **exploratory data analysis** (EDA), and translating complex data into actionable insights for strategic decision-making. Strong ability to work cross-functionally, leveraging data to streamline operations, improve customer satisfaction, and support key stakeholders.
 
