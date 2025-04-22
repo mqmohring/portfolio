@@ -10,4 +10,6 @@ title: "Projects"
 <iframe src="https://drive.google.com/file/d/1-_EOt8C0qfodntrBniNRrNFVC50MiuU1/preview" width="800" height="540" allow="autoplay"></iframe>
 
 ## 3. Global Layoffs 3: Python Visualisation  
-<iframe src="https://docs.google.com/document/d/12TnjdsDxfx41_urSAOTFZcnRdkJ0kgo1mQ44bqIrAVo/edit?usp=sharing" width="800" height="540" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1w7HFm0TbxTK8VfiDcFbvU_yrmiwXtEsE/view?usp=sharing" width="800" height="540" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1zYciS_wNE2mVTEqVYa3zdChz4S249FRZ/view?usp=sharing" width="800" height="540" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1p9wetko8G8OSvYXlV275UrAAzwiTLexM/view?usp=sharing" width="800" height="540" allow="autoplay"></iframe>
