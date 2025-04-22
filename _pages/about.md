@@ -13,4 +13,4 @@ title: "Presentation"
 
 <small>Passionate about music and cultural fields, I bring a unique perspective shaped by my academic background in cultural studies. This foundation enhances my ability to approach data with creativity, empathy, and a deep understanding of human behavior, enabling me to uncover insights that resonate across diverse audiences.
 
-📩 <small>Open to roles in **Data Analytics**, Business Intelligence, and Operations Strategy. Let’s connect!
+📩 <small>Open to roles in **Data Analytics**, Business Intelligence, and Operations. Let’s connect!
