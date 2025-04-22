@@ -10,7 +10,9 @@ title: "Projects"
 <iframe src="https://drive.google.com/file/d/1-_EOt8C0qfodntrBniNRrNFVC50MiuU1/preview" width="800" height="540" allow="autoplay"></iframe>
 
 ## 3. Global Layoffs 3: Python Visualisation
-<iframe src="https://mqmohring.github.io/portfolio/plots/LAYOFFS.py GRAPHS.pdf" width="800" height="540"></iframe>
+<iframe 
+  src="https://mqmohring.github.io/portfolio/plots/LAYOFFS.py GRAPHS.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH" 
+  width="800" height="540"></iframe>
 <iframe src="https://mqmohring.github.io/portfolio/plots/layoffs_by_country.html" width="800" height="540"></iframe>
 <iframe src="https://mqmohring.github.io/portfolio/plots/layoffs_by_company_size.html" width="800" height="540"></iframe>
 
