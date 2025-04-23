@@ -13,43 +13,23 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-########################################################################
-#  🔧  SITE BASICS                                                     #
-########################################################################
-title: "Matias Q. Möhring — Data Analyst"
-tagline: "Turning messy ops data into clear business stories"
-email:          # keep blank if you don’t want mailto link
+title: Matias Q. Möhring Portfolio
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Data Analyst with a bakground in Operations Management and Cultural Studies.
-
-
-
-# Social handles --------------------------------------------------------
-linkedin_username:  mqmohring
-github_username:    mqmohring
-
-########################################################################
-#  🌈  THEME & UI                                                      #
-########################################################################
-remote_theme: "mmistakes/minimal-mistakes@master"
-minimal_mistakes_skin: "dark"
-
-
+linkedin_username: mqmohring
+github_username: mqmohring
+minimal_mistakes_skin: dark
 search: true
 
-########################################################################
-#  📊  ANALYTICS                                                       #
-########################################################################
 analytics:
   provider: "cloudflare"
   cloudflare:
     token: "9023db962241409db8306762d036a002"
 
-########################################################################
-#  🔨  BUILD SETTINGS                                                  #
-########################################################################
+# Build settings
 markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes@master
 plugins:
   - jekyll-remote-theme
   - jekyll-assets
@@ -58,53 +38,65 @@ plugins:
   - jekyll-paginate-v2
   - jemoji
   - jekyll-include-cache
-paginate: 5
-paginate_path: "/page:num/"
-timezone: "Europe/Berlin"
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-# include custom static pages
 include:
   - _pages
 
-########################################################################
-#  👤  AUTHOR CARD                                                     #
-########################################################################
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+  - jekyll-include-cache
+
 author:
   name   : "Matias Q. Möhring"
   avatar : "/assets/images/profpic.jpeg"
-  bio    : "Data Analyst · Ops Manager"
-  location : "Berlin, Germany"
+  bio    : "Data Analyst, Ops Management"
   links:
-    - label: "LinkedIn"
+   # - label: "Website"
+    #  icon: "fas fa-fw fa-link"
+     # url: "https://"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/matias-möhring-343839279/"
+      url: "https://www.linkedin.com/in/matias-m%C3%B6hring-343839279/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mqmohring"
-    - label: "Download CV"
-      icon: "fas fa-fw fa-file-pdf"
-      url: "CVMQM.pdf"
 
-########################################################################
-#  🦶  FOOTER                                                          #
-########################################################################
+
 footer:
   links:
+  #  - label: "Twitter"
+   #   icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mqmohring"
     - label: "Privacy"
-      icon: "fas fa-fw fa-user-shield"
-      url: "/privacy/"
-    #- label: "RSS Feed"
-     # icon: "fas fa-fw fa-rss"
-      #url: "/feed.xml"
+      icon: "fas fa-fw fa-link"
+      url: "https://mqmohring.github.io/portfolio/privacy"
 
-########################################################################
-#  🏷  DEFAULTS                                                        #
-########################################################################
 defaults:
-  # all posts -----------------------------------------------------------------
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -112,10 +104,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false
+      comments: true
       share: true
       related: true
-  # all pages -----------------------------------------------------------------
+  # _pages
   - scope:
       path: "_pages"
       type: pages
@@ -123,9 +115,6 @@ defaults:
       layout: single
       author_profile: true
 
-########################################################################
-#  📚  ARCHIVES                                                        #
-########################################################################
 category_archive:
   type: liquid
   path: /categories/

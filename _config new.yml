@@ -1,0 +1,134 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+########################################################################
+#  🔧  SITE BASICS                                                     #
+########################################################################
+title: "Matias Q. Möhring — Data Analyst"
+tagline: "Turning messy ops data into clear business stories"
+email:          # keep blank if you don’t want mailto link
+description: >- # this means to ignore newlines until "baseurl:"
+  Data Analyst with a bakground in Operations Management and Cultural Studies.
+
+
+
+# Social handles --------------------------------------------------------
+linkedin_username:  mqmohring
+github_username:    mqmohring
+
+########################################################################
+#  🌈  THEME & UI                                                      #
+########################################################################
+remote_theme: "mmistakes/minimal-mistakes@master"
+minimal_mistakes_skin: "dark"
+
+
+search: true
+
+########################################################################
+#  📊  ANALYTICS                                                       #
+########################################################################
+analytics:
+  provider: "cloudflare"
+  cloudflare:
+    token: "9023db962241409db8306762d036a002"
+
+########################################################################
+#  🔨  BUILD SETTINGS                                                  #
+########################################################################
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+  - jekyll-assets
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jemoji
+  - jekyll-include-cache
+paginate: 5
+paginate_path: "/page:num/"
+timezone: "Europe/Berlin"
+
+# include custom static pages
+include:
+  - _pages
+
+########################################################################
+#  👤  AUTHOR CARD                                                     #
+########################################################################
+author:
+  name   : "Matias Q. Möhring"
+  avatar : "/assets/images/profpic.jpeg"
+  bio    : "Data Analyst · Ops Manager"
+  location : "Berlin, Germany"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/matias-möhring-343839279/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mqmohring"
+    - label: "Download CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "CVMQM.pdf"
+
+########################################################################
+#  🦶  FOOTER                                                          #
+########################################################################
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mqmohring"
+    - label: "Privacy"
+      icon: "fas fa-fw fa-user-shield"
+      url: "/privacy/"
+    #- label: "RSS Feed"
+     # icon: "fas fa-fw fa-rss"
+      #url: "/feed.xml"
+
+########################################################################
+#  🏷  DEFAULTS                                                        #
+########################################################################
+defaults:
+  # all posts -----------------------------------------------------------------
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # all pages -----------------------------------------------------------------
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+########################################################################
+#  📚  ARCHIVES                                                        #
+########################################################################
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
