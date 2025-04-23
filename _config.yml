@@ -70,7 +70,7 @@ plugins:
 author:
   name   : "Matias Q. Möhring"
   avatar : "/assets/images/profpic.jpeg"
-  bio    : "Data Analyst & Ops Manager"
+  bio    : "Data Analyst"
   links:
    # - label: "Website"
     #  icon: "fas fa-fw fa-link"
