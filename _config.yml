@@ -71,17 +71,17 @@ author:
   name   : "Matias Q. Möhring"
   avatar : "/assets/images/profpic.jpeg"
   bio    : "Data Analyst, Ops Management"
+  location : "Berlin, Germany"
   links:
-   # - label: "Website"
-    #  icon: "fas fa-fw fa-link"
-     # url: "https://"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/matias-m%C3%B6hring-343839279/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mqmohring"
-
+    - label: "Download CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "CVMQM.pdf"
 
 footer:
   links:
