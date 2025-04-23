@@ -22,11 +22,6 @@ github_username: mqmohring
 minimal_mistakes_skin: dark
 search: true
 
-analytics:
-  provider: "google-gtag"      # For GA4 (new Google Analytics)
-  google-gtag:
-    tracking_id: "G-K3DLPW12RL"
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
