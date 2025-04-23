@@ -72,7 +72,7 @@ plugins:
 author:
   name   : "Matias Q. Möhring"
   avatar : "/assets/images/profpic.jpeg"
-  bio    : "Data Analyst, Ops Management"
+  bio    : "Data Analyst · Ops Manager"
   location : "Berlin, Germany"
   links:
     - label: "Linkedin"
