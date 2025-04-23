@@ -23,11 +23,9 @@ minimal_mistakes_skin: dark
 search: true
 
 analytics:
-  provider: "google-gtag"
-  google-gtag:
-    tracking_id: "G-K3DLPW12RL"
-    anonymize_ip: true # GDPR compliance
-# google_analytics: G-K3DLPW12RL
+  provider: "cloudflare"
+  cloudflare:
+    token: "9023db962241409db8306762d036a002"
 
 # Build settings
 markdown: kramdown
