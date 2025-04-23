@@ -16,7 +16,7 @@ title: "Projects"
 <iframe src="https://mqmohring.github.io/portfolio/plots/layoffs_by_company_size_2022-2025.html" width="800" height="540"></iframe>
 <iframe 
   src="https://mqmohring.github.io/portfolio/plots/LAYOFFS.py GRAPHS.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH" 
-  width="800" height="540"></iframe>
+  width="800" height="700"></iframe>
 
 
 
