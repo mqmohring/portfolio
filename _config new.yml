@@ -33,8 +33,11 @@ github_username:    mqmohring
 #  🌈  THEME & UI                                                      #
 ########################################################################
 remote_theme: "mmistakes/minimal-mistakes@master"
-minimal_mistakes_skin: "dark"
-
+minimal_mistakes_skin: "dark"      # keep, but we’ll add accent below
+# Custom brand colour (adds teal accent) via preset --------------------
+#crashes the theme! lets leave it out
+#minimal_mistakes_skin_variables:
+ # accent_color: "#0096a7"
 
 search: true
 
