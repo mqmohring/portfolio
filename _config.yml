@@ -31,7 +31,7 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes@latest
+remote_theme: mmistakes/minimal-mistakes@master
 plugins:
   - jekyll-remote-theme
   - jekyll-assets
