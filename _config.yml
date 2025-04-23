@@ -70,7 +70,7 @@ plugins:
 author:
   name   : "Matias Q. Möhring"
   avatar : "/assets/images/profpic.jpeg"
-  bio    : "Data Analyst | Operations Management"
+  bio    : "Data Analyst & Ops Manager"
   links:
    # - label: "Website"
     #  icon: "fas fa-fw fa-link"
@@ -93,7 +93,7 @@ footer:
       url: "https://github.com/mqmohring"
     - label: "Privacy"
       icon: "fas fa-fw fa-link"
-      url: "https://mqmohring.github.io/portfolio/privacy.html"
+      url: "https://mqmohring.github.io/portfolio/privacy"
 
 defaults:
   # _posts
