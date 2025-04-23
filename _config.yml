@@ -23,11 +23,11 @@ minimal_mistakes_skin: dark
 search: true
 
 analytics:
-  provider: "google"
-  google:
+  provider: "google-gtag"
+  google-gtag:
     tracking_id: "G-K3DLPW12RL"
     anonymize_ip: true # GDPR compliance
-google_analytics: G-K3DLPW12RL
+# google_analytics: G-K3DLPW12RL
 
 # Build settings
 markdown: kramdown
