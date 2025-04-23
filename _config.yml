@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 linkedin_username: mqmohring
 github_username: mqmohring
 minimal_mistakes_skin: dark
+
 search: true
 
 analytics:
