@@ -1,6 +1,6 @@
 ---
-permalink: /presentation/
-title: "Presentation"
+permalink: /about/
+title: "About"
 ---
 
 🔹 Data Analyst | Operations Manager
