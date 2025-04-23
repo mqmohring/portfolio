@@ -1,0 +1,2 @@
+git commit --allow-empty -m "Force GA rebuild"
+git push
