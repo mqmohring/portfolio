@@ -34,7 +34,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-assets
   - jekyll-sitemap
-  - jekyll-feed
   - jekyll-gist
   - jekyll-paginate-v2
   - jemoji
@@ -65,7 +64,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -83,9 +81,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mqmohring"
- #   - label: "Instagram"
-  #    icon: "fab fa-fw fa-instagram"
-   #   url: "https://instagram.com/"
+    - label: "Privacy"
+      icon: "fas fa-fw fa-link"
+      url: "https://mqmohring.github.io/portfolio/privacy.html"
 
 footer:
   links:
