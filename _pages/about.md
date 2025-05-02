@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-🔹 Data Analyst | Operations Manager
+🔹 Data Analyst | Operations Analyst
 
 <small> Experienced **Data Analyst** with a background in Operations Analysis and Management, Customer Success, and Financial Planning. Skilled in SQL, Excel, and data visualization to drive data-informed decision-making. Proven success in analyzing key performance metrics, optimizing financial processes, and implementing forecasting models to enhance business transparency.
 
