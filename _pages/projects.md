@@ -54,12 +54,6 @@ Lower funding does seem to reflect on higher exposure to layoffs. A regression p
 🔹 This aligns with the common startup risk curve — early-stage companies face more volatility, resource constraints, and abrupt strategy pivots that lead to higher relative layoffs.  
 
 
-📌 **See the full notebook:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YvBxn3TdX7xyqJDTDd0ghOi1N5ELiRLG?usp=sharing) 
-or the Seaborn version below: 
-<iframe 
-  src="https://mqmohring.github.io/portfolio/plots/LAYOFFS.py GRAPHS.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH" 
-  width="800" height="700"></iframe>
-
-
+📌 **See the full notebook here:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YvBxn3TdX7xyqJDTDd0ghOi1N5ELiRLG?usp=sharing)
 
 
