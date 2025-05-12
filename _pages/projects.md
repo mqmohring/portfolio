@@ -50,7 +50,7 @@ Lower funding does seem to reflect on higher exposure to layoffs. A regression p
 
 ### Conclusions
 🔹 According to these graphs, companies with **lower funding rounds were more likely to downsize proportionally**.  
-🔹 Early-stage companies experience higher relative downsizing, meaning they are more likely to lay off a larger share of their staff, and in some cases, nearly all of it.  
+🔹 Early-stage companies experience higher relative downsizing, meaning they are more likely to lay off a larger share of their staff, and in some cases, nearly all of it.   
 🔹 This aligns with the common startup risk curve — early-stage companies face more volatility, resource constraints, and abrupt strategy pivots that lead to higher relative layoffs.  
 
 
