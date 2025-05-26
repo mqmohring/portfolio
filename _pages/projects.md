@@ -40,7 +40,7 @@ Denmark, Vietnam and Nigeria show the highest layoff indexes:
 Is there a correlation between company size and layoff indexes? 
 (double-click to filter a stage)
 <iframe src="https://mqmohring.github.io/portfolio/plots/layoffs_per_funding.html" width="800" height="540"></iframe>
-While higher-funded companies lay off more people in total, this is largely due to their size. It seems necessary to cross-reference with layoff percentages:
+While higher-funded companies lay off more people in total, this is largely due to their size. It seems necessary to cross-reference with layoff percentages, including a clear view of averages and quartiles:
 <iframe src="https://mqmohring.github.io/portfolio/plots/layoff_percentage_box.html" width="800" height="540"></iframe>
 Lower funding does seem to reflect on higher exposure to layoffs. A regression plot shows this clearly too:
 <iframe src="https://mqmohring.github.io/portfolio/plots/layoff_percentage_per_funding.html" width="800" height="540"></iframe>
