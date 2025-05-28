@@ -46,7 +46,7 @@ Lower funding does seem to reflect on higher exposure to layoffs. A regression p
 <iframe src="https://mqmohring.github.io/portfolio/plots/layoff_percentage_per_funding.html" width="800" height="540"></iframe>
 - Positive correlation in advanced stages like Series G (often signaling pre-IPO readiness or heavy expansion) or the rare Series J (often massive unicorns or declining giants), suggest that some companies raised significant funding but still had high layoff percentages.  
 - This could reflect overexpansion or overhiring followed by corrections, strategic misalignment (money was raised, but business goals weren't met), or investor pressure to cut costs post-funding (post-hype) round.  
-- This could point to overfunded companies in decline, poor capital efficiency or late-stage companies with bloated ops trimming aggressively. 
+- This  could point to overfunded companies in decline, poor capital efficiency or late-stage companies with bloated ops trimming aggressively. 
 
 ### Conclusions
 🔹 According to these graphs, companies with **lower funding rounds were more likely to downsize proportionally**.  
