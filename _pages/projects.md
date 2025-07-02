@@ -12,7 +12,7 @@ The past few years have seen significant workforce reductions across industries,
 
 ### Methodology  
 - Cleaned and processed the dataset using **SQL** (Exploratory Data Analysis)  
-- Visualized trends and insights using **Python** (Matplotlib/Seaborn)  
+- Visualized trends and insights using **Python** (Matplotlib/Plotlyexpress)  
 - Explored key questions like:  
   - Which sectors were hit hardest?  
   - Did well-funded companies lay off more or fewer employees?  
@@ -48,7 +48,7 @@ Lower funding does seem to reflect on higher exposure to layoffs. A regression p
 - This could reflect overexpansion or overhiring followed by corrections, strategic misalignment (money was raised, but business goals weren't met), or investor pressure to cut costs post-funding (post-hype) round.  
 - This  could point to overfunded companies in decline, poor capital efficiency or late-stage companies with bloated ops trimming aggressively. 
 
-### Conclusions
+### Some conclusions
 🔹 According to these graphs, companies with **lower funding rounds were more likely to downsize proportionally**.  
 🔹 Early-stage companies experience higher relative downsizing, meaning they are more likely to lay off a larger share of their staff, and in some cases, nearly all of it.   
 🔹 This aligns with the common startup risk curve — early-stage companies face more volatility, resource constraints, and abrupt strategy pivots that lead to higher relative layoffs.  
